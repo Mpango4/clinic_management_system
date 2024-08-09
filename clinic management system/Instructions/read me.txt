@@ -1,0 +1,29 @@
+install xampp
+install visual studio code
+
+step 1:
+start xampp and run localhost on browser
+
+step 2:
+Create a database named "clinic_db " and then import the file named clinic_db.sql which is located in Database folder
+
+step 3:
+now extract sourcecode in C:\xampp\htdocs and give foldername what you want.
+
+step 4:
+open browser and enter url as http://localhost/clinic%20management%20system/source%20code/login.php
+
+
+admin details
+Username : jeniffermusabaha@gmail.com
+Password : 1234
+
+Username : jeniffer01@gmail.com
+Password : 1234
+
+Username : jenifer01@gmail.com
+Password : 1234
+-----------------------------------------
+for any Academic Project or Commercial Project Development work (PHP, Laravel) contact me
+on +255623107804
+or email me at mpangosogo0102@gmail.com
